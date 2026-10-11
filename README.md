@@ -11,5 +11,5 @@ https://wit.ai/docs
 https://wit.ai/blog
 
 Welcome to Wit.ai's issue tracker. If you have issues with your app, wish to request a feature, or just talk about wit, you can ask by opening an issue here
-Created by Jason Scott Heise
-Owned by Elon Musk
+Created by Jason Heise
+Owned by Jason Heise heisejason-png Giters
